@@ -1,0 +1,9 @@
+﻿  AISDprojo2.cpp
+c:\users\deny\desktop\drugi sem\aisd\aisdprojo2\aisdprojo2.cpp(55): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+c:\users\deny\desktop\drugi sem\aisd\aisdprojo2\aisdprojo2.cpp(75): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+c:\users\deny\desktop\drugi sem\aisd\aisdprojo2\aisdprojo2.cpp(101): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+c:\users\deny\desktop\drugi sem\aisd\aisdprojo2\aisdprojo2.cpp(119): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\deny\desktop\drugi sem\aisd\aisdprojo2\aisdprojo2.cpp(153): warning C4244: "argument": konwersja z "__int64" do "unsigned int", możliwa utrata danych
+c:\users\deny\desktop\drugi sem\aisd\aisdprojo2\aisdprojo2.cpp(154): warning C4244: "argument": konwersja z "__int64" do "unsigned int", możliwa utrata danych
+c:\users\deny\desktop\drugi sem\aisd\aisdprojo2\aisdprojo2.cpp(156): warning C4244: "=": konwersja z "__int64" do "unsigned int", możliwa utrata danych
+  AISDprojo2.vcxproj -> C:\Users\Deny\Desktop\Drugi sem\AiSD\AISDprojo2\Debug\AISDprojo2.exe
